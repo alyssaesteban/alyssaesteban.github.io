@@ -3,13 +3,17 @@
 @import url('https://fonts.googleapis.com/css?family=Cutive+Mono');
 
 div {
-	width: 800px;
+	width: 1080px;
 	margin: 0 auto;
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 header {
-	background-color: #eee;
-	padding: 1em 0;
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 body {
@@ -26,6 +30,24 @@ h2 {
 	font-family: 'Cutive Mono', monospace;
 	font-size: 1.5em;
 	font-weight: 900;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 p {
@@ -51,7 +73,7 @@ a:hover {
 
 footer {
 	padding: 1em 0;
-	background-color: #eee;
+	background-color: #FF957E;
 }
 
 .date {
