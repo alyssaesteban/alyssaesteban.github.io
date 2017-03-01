@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono');
+
+div {
+	width: 800px;
+	margin: 0 auto;
+}
+
+header {
+	background-color: #eee;
+	padding: 1em 0;
+}
+
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Permanent Marker', monospace;
+	font-size: 2.5em;
+	color: rgb(230,0,0);
+}
+
+h2 {
+	font-family: 'Cutive Mono', monospace;
+	font-size: 1.5em;
+	font-weight: 900;
+}
+
+p {
+	font-family: 'Cutive Mono', monospace;
+	font-size: 1em;
+}
+
+img {
+	padding-top: 24px;
+	padding-bottom: 12px;
+}
+
+a {
+	font-family: 'Permanent Marker', monospace;
+	font-size: 1em;
+	color: rgb(230,0,0);
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: yellow;
+}
+
+footer {
+	padding: 1em 0;
+	background-color: #eee;
+}
+
+.date {
+	font-family: 'Arial', sans-serif;
+	font-size: .6em;
+	text-transform: uppercase;
+}
